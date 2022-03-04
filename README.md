@@ -1,6 +1,7 @@
 # Diet Problem and Manufacturing Problem: 
 Diet Problem and Manufacturing Problem: Decided how much of each of each dessert to consume per day so that taste index is maximized, and calories and grams of fat are minimized, subject to constraints (Algebraic Formulation). 
 
+Essential Components of an Optimization Solution (objective in words, variable definition, algebraic formulation (using summation notation and with labels for the objective function and constraints), and summary of results are shown.
 
 # Diet Problem Solution
 
